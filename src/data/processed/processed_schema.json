@@ -1,0 +1,373 @@
+{
+  "fields": [
+    {
+      "name": "age",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "years_at_school",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "ppl_in_household",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "smoke_home_workplace",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "consumed_alcohol",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "number_alcoholic_drinks",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "number_daily_fruit_vegetables",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "days_vigorous_exercise",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "days_moderate_exercise",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "time_walking_bicycling_minutes",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "time_sedentary",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading1_systolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading1_diastolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading2_systolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading2_diastolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading3_systolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading3_diastolic",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "height",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "weight",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "waist_circumference",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "hip_circumference",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading1_bpm",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading2_bpm",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "reading3_bpm",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "fasting_blood_glucose",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "total_cholesterol",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "triglycerides",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "hdl_cholesterol",
+      "data_type": "Float64",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "country",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "sex",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "level_of_education",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "marital_status",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "work_status",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "currently_smoke_tobacco",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "type_tobacco",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "salt_consumption",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "work_intensity",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "had_blood_pressure_measurement",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "taken_drugs_for_raised_bp",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "had_blood_sugar_measurement",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "taken_diabetes_drugs",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "had_cholesterol_measurement",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "had_heart_attack",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "taking_heart_disease_medication",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "treated_for_raised_bp",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    },
+    {
+      "name": "are_you_pregnant",
+      "data_type": "Utf8",
+      "nullable": true,
+      "dict_id": 0,
+      "dict_is_ordered": false,
+      "metadata": {}
+    }
+  ],
+  "metadata": {}
+}
